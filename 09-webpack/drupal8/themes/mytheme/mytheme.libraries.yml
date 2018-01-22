@@ -1,0 +1,9 @@
+global-styling:
+  version: 1.x
+  css:
+    theme:
+      dist/main.css: {}
+  js:
+    dist/main.bundle.js: {}
+  dependencies:
+    - core/jquery

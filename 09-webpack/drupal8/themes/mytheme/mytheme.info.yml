@@ -1,0 +1,11 @@
+name: My Theme
+type: theme
+description: 'My own webpack theme!'
+core: 8.x
+base theme: classy
+libraries:
+  - mytheme/global-styling
+regions:
+  header: Header
+  content: Content
+  footer: Footer

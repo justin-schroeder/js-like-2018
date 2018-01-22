@@ -1,0 +1,14 @@
+// **
+// File: main.scss
+//
+// This is the entry point for the mytheme. It should be noted that the
+// file is technically loaded into js/main.js and then extract via webpack. All
+// sass in these files will be compiled to css, and then processed by postcss
+// for autoprefixing. Additional PostCSS modules can be added by editing
+// the `postcss.config.js` file in the root of the Drupal installation.
+// **
+
+body {
+  background-color: red;
+}
+

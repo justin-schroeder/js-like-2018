@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "babel ./ --out-dir compiled --ignore node_modules,package-lock.json,.babelrc,.package.json"
+  }
+}
