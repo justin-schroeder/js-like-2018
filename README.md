@@ -1,7 +1,6 @@
-JS Like It's 2018
------------------
+<img src="https://assets.wearebraid.com/js-2018-small.png" width="300" height="167" alt="JS Like It's 2018">
 
-This repository contains example code to help learn about some of the significant changes in JavaScript, as well as some example webpack configurations for Drupal and Wordpress.
+This repository contains example code that examines some of the significant changes in JavaScript, as well as example webpack configurations for Drupal and Wordpress.
 
 #### How To
 
@@ -15,3 +14,7 @@ Node.js and many browser do not yet fully support the ES2015 modules. In order t
 1. `cd js-like-2017/08-modules/ES6`
 2. `npm install`
 3. `npm run build`
+
+#### Need help?
+
+Feel free to [get in touch](mailto://dev@wearebraid.com) with [me](https://www.jpschroeder.com).
