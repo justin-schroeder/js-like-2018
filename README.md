@@ -1,6 +1,10 @@
 <img src="https://assets.wearebraid.com/js-2018-small.png" width="300" height="167" alt="JS Like It's 2018">
 
-This repository contains example code that examines some of the significant changes in JavaScript, as well as example webpack configurations for Drupal and Wordpress.
+This repository contains example code that examines some of the significant changes in JavaScript, as well as example webpack configurations for Drupal.
+
+#### Slides
+
+The original talk slides are available here: [brd.bz/js2018-slides](https://brd.bz/js2018-slides)
 
 #### How To
 
